@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* for max hight of carosel */
+#carousel{
+  max-height: 500px;
+}
+
+/* to give shadow to cards */
+
+.card:hover {
+  transform: translateY(-5px); /* Optional: lift effect */
+  transition: all 0.3s ease; /* Smooth transition */
+}
+
+
+
+
+.dot {
+  width: 6px;  /* Adjust size */
+  height: 6px; /* Adjust size */
+  border-radius: 50%;
+  background-color: white; /* Change color as per your theme */
+  margin: 2px 0; /* Space between dots */
+}
+
+
+
