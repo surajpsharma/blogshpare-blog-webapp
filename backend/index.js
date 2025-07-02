@@ -7,6 +7,7 @@ app.use((req, res, next) => {
   // Allow requests from the Vercel-deployed frontend and local development
   const allowedOrigins = [
     process.env.FRONTEND_URL,
+    "https://blogshpare.vercel.app", // Your Vercel frontend URL
     "http://localhost:3000", // Allow local development
   ];
   const origin = req.headers.origin;
@@ -19,7 +20,7 @@ app.use((req, res, next) => {
     // This ensures we always have a valid value
     res.setHeader(
       "Access-Control-Allow-Origin",
-      process.env.FRONTEND_URL || "https://your-production-domain.com"
+      "https://blogshpare.vercel.app" // Default to your Vercel frontend URL
     );
   } else {
     // In development, default to localhost if no match

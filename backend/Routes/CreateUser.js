@@ -91,12 +91,10 @@ router.post(
       // Example of using the native driver to get the user data
       let userData = await db.collection("users").findOne({ email });
       if (!userData) {
-        return res
-          .status(400)
-          .json({
-            error:
-              "Invalid login. It seems you're not registered. Please sign up to create an account.",
-          });
+        return res.status(400).json({
+          error:
+            "Invalid login. It seems you're not registered. Please sign up to create an account.",
+        });
       }
 
       // Compare password using bcrypt
