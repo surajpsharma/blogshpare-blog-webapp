@@ -69,51 +69,56 @@ npm run dev
 🖼 Layouts & Screenshots
 
 1 Homepage: 
-a:-  ![blog](https://github.com/user-attachments/assets/d47c6750-c80d-476f-96a9-9b856ca8cc4f)
-b:- ![blog1](https://github.com/user-attachments/assets/79dccb38-d384-4a32-a80c-f755ef0c203f)
+a:-![allblog](https://github.com/user-attachments/assets/8db08fde-ee22-432c-a2e2-592baa3d326e)
+
+b:- 
+![1blog](https://github.com/user-attachments/assets/49aa6850-ef8e-4c39-ad5e-71a21e516d91)
 
 2 Login & Sinup
-a:- ![bloglogin](https://github.com/user-attachments/assets/a0b3b52d-3590-4c83-8f65-e22502291162)
+a:- ![bloglogin](https://github.com/user-attachments/assets/2482b518-002a-4bc7-8d87-0759a6af9490)
 
-b:- ![blogsinup](https://github.com/user-attachments/assets/aec02fe7-c12c-4ff5-9b1d-41d6a447aa24)
+b:- ![blogsinup](https://github.com/user-attachments/assets/8e59abfa-d65c-4aac-9ff6-a81165d787c2)
 
-3 Create Blog: ![createnewblog](https://github.com/user-attachments/assets/39cb65c8-b070-49d2-a7e5-a24d90dcaa2b)
+
+3 Create Blog: 
+![createnewblog](https://github.com/user-attachments/assets/bfd2c7b9-3f1e-430c-9da3-d10795b856c3)
 
 4 My Profiles
 a:- Profiles 
-![myprofile](https://github.com/user-attachments/assets/f6c344ce-7709-45df-80d4-783369b7ec6e)
+![Screenshot 2025-06-29 074528](https://github.com/user-attachments/assets/8c8991c8-590c-4816-aa5c-858102c75131)
 
-b:- edit profiles
-![editprofile](https://github.com/user-attachments/assets/f3c035e1-b1ce-45a4-ae61-6b39855dc9ee)
+b:- edit profiles 
+![editprofile](https://github.com/user-attachments/assets/4251762e-0867-4614-bfc1-b6ac05466899)
+
 
 5 All Creaters :-
-![allcreaters](https://github.com/user-attachments/assets/64ad1d4f-70f9-4e01-8ad8-de176fcd9ec9)
+
+![allcreaters](https://github.com/user-attachments/assets/42ecfb23-0cbc-4621-beb3-acc8323e16a5)
 
 6 Creaters Profiles:-
-![creatersprofile](https://github.com/user-attachments/assets/17e161f6-bbbf-47ab-9fcf-f0fa0a7c86ec)
+ ![creatersprofile](https://github.com/user-attachments/assets/cbee8d83-6151-4948-bdb3-9a51b6038da3)
 
-7 Comments 
+7 Comments
 a:- Own Comments
-![usercomment](https://github.com/user-attachments/assets/11afba02-4210-4d2a-a67a-400c18178d9a)
+![usercomment](https://github.com/user-attachments/assets/54263023-3a77-49b6-ba33-3879ce2943df)
+
 
 b:- Users Comments 
+![comment2](https://github.com/user-attachments/assets/ec6ad9d3-be44-4105-8f07-6b13aad53227)
 
-![comment2](https://github.com/user-attachments/assets/76c67712-9fc4-4407-9d30-349c737fd867)
 
 8 Example 
 
-a:- ![1blog](https://github.com/user-attachments/assets/3911daef-e3d3-47e6-90f9-8d7ff2d45509)
+a:-
 
+![Uploading allblog.png…]()
 
-b:- ![secondblog](https://github.com/user-attachments/assets/dc0d8ace-d5f2-41d9-89bb-f599106338f0)
+b:-)
+![secondblog](https://github.com/user-attachments/assets/048fdcac-ef93-408b-bc0b-c381a3e54120)
 
-9 Blogs 
+ 9 footer:- 
 
-![allblog](https://github.com/user-attachments/assets/9da55578-7a4b-48dd-9e54-e0e9e831672c)
-
-
-10 footer:- 
-![blogfooter](https://github.com/user-attachments/assets/8cfdb949-05ec-44df-ad39-f7b4c1fd2988)
+![blogfooter](https://github.com/user-attachments/assets/8ebb97bb-97d3-4b8d-a208-536669aa9fb0)
 
 
 
